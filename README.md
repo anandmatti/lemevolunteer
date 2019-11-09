@@ -1,3 +1,3 @@
 # letmevolunteer
 
-Test Project
+Test Project for volunteering app
